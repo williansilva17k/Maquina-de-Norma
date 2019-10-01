@@ -1,6 +1,6 @@
-========================
+============
 BUILD OUTPUT DESCRIPTION
-========================
+============
 Para executar o arquivo jar utilize o comando dentro da pasta que ele esta: java -jar NomaMachine.jar
 
 java -jar "Registradores.jar" 
