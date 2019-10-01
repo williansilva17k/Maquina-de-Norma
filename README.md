@@ -11,16 +11,25 @@ java -jar "Registrador.jar"</code>
 
 3ºPara utilizar alguma função da maquina deve-se seguir o seguinte padrão:
 
-<code>Para 4 registradores:
-Para realizar alguma função: " r1?r2?r3?r4 "
+<code>
+Para 4 registradores:</code>
+<code>
+Para realizar alguma função: " r1?r2?r3?r4 "</code>
+<code>
 Onde "?" deverá ser substituido por mais ou menos, não podendo conter espaços, e a função de multiplicação so funciona para todos os 4 numeros.</code>
 
-<code>Para 3 registradores:
-Para realizar alguma função: " r1?r2?r3 "
+<code>
+Para 3 registradores:</code>
+<code>
+Para realizar alguma função: " r1?r2?r3 "</code>
+<code>
 Onde "?" deverá ser substituido por mais ou menos, não podendo conter espaços, e a função de multiplicação so funciona para todos os 3 numeros.</code>
 
 
-<code>Para 2 registradores:
-Para realizar alguma função: " r1?r2  "
+<code>
+Para 2 registradores:</code>
+<code>
+Para realizar alguma função: " r1?r2  "</code>
+<code>
 Onde "?" deverá ser substituido por mais ou menos, não podendo conter espaços, e a função de multiplicação so funciona para os 2 numeros.
 </code>
