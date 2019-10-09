@@ -50,7 +50,7 @@ public class Registradores {
 					System.out.println(r4);
 				}
 
-				System.out.println("\nEntre com a operação do registrador 1,registrador 2,registrador 3 e registrador 4:");
+				System.out.println("\nEntre com a operaÃ§Ã£o do registrador 1,registrador 2,registrador 3 e registrador 4:");
 				op = sc.next();
 				if (op.equals("r1+r2+r3+r4")) {
 					r1.increment(r1, r4);
@@ -58,7 +58,7 @@ public class Registradores {
 					r1.increment(r1, r2);
 					System.out.println("\n\nResultado:");
 					System.out.println(r1);
-				} else if (op.equals("r1-r2-3-r4")) {
+				} else if (op.equals("r1-r2-r3-r4")) {
 					r1.decrement(r1, r4);
 					r1.decrement(r1, r3);
 					r1.decrement(r1, r2);
@@ -134,7 +134,7 @@ public class Registradores {
 					System.out.println(r3);
 				}
 
-				System.out.println("\nEntre com a operação do registrador 1,registrador 2,registrador 3:");
+				System.out.println("\nEntre com a operaÃ§Ã£o do registrador 1,registrador 2,registrador 3:");
 				op = sc.next();
 
 				if (op.equals("r1+r2+r3")) {
@@ -179,7 +179,7 @@ public class Registradores {
 					System.out.println(r2);
 				}
 
-				System.out.println("\nEntre com a operação do registrador 1,registrador 2,registrador 3:");
+				System.out.println("\nEntre com a operaÃ§Ã£o do registrador 1,registrador 2,registrador 3:");
 				op = sc.next();
 
 				if (op.equals("r1+r2")) {
