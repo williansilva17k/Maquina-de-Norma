@@ -13,12 +13,14 @@ java -jar "Registrador.jar"</code>
 <br>
 <code>
 Para 4 registradores " r1!r2!r3!r4 " para realizar alguma função.
-Onde "!" deverá ser substituido por mais ou menos, não podendo conter espaços, e a função de multiplicação so funcionará para todos os numeros.
+Onde "!" deverá ser substituido por mais ou menos, não podendo conter espaços, e a função de multiplicação so funcionará para todos os numeros.</code>
 <br>
 <br>
+<code>
 Para 3 registradores " r1!r2!r3 " para realizar alguma função.
 Onde "!" deverá ser substituido por mais ou menos, não podendo conter espaços, e a função de multiplicação so funcionará para todos os numeros.
 <br>
 <br>
+<code>
 Para 2 registradores utilize " r1!r2  " para realizar alguma função.
 Onde "!" deverá ser substituido por mais ou menos, não podendo conter espaços, e a função de multiplicação funcionará para todos os numeros.</code>
